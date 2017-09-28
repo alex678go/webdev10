@@ -1,0 +1,9 @@
+body {
+	margin: auto;
+	float: right;
+	background: #000;
+	background: #fff url() 0 0 no-repeat;
+	animation: name duration timing-function delay iteration-count direction fill-mode;
+	left: 0;
+	left: auto;
+}
