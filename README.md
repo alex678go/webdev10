@@ -1,21 +1,21 @@
 # Юрий Курбаков
 ## Мои домашние задания
 
-[Урок 4]
+[Урок 4](https://blvrrr.github.io/webdev10/homework/lesson04/project/src/) - сверстанная только на html книжка
 
-[Урок 5]
+[Урок 5](https://blvrrr.github.io/webdev10/homework/lesson05/project/src/) - сверстанная на html и css книжка
 
-[Урок 6]
+[Урок 6](https://blvrrr.github.io/webdev10/homework/lesson06/project/src/) - тренировка позиционирования
 
-[Урок 7]
+[Урок 7](https://blvrrr.github.io/webdev10/homework/lesson07/project/src/) - первый сверстанный сайт, полностью на html+css
 
-[Урок 8]
+[Урок 8](https://blvrrr.github.io/webdev10/homework/lesson08/project/src/) - знакомство с сеткой bootstrap
 
-[Урок 9]
+[Урок 9](https://blvrrr.github.io/webdev10/homework/lesson09/project/src/) - сайт из урока 7, но с использованием bootstrap
 
-[Урок 10]
+[Урок 10](https://blvrrr.github.io/webdev10/homework/lesson10/project/src/) - знакомство с LESS
 
-[Урок 11]
+[Урок 11](https://blvrrr.github.io/webdev10/homework/lesson11/project/src/) - сниппеты в sublime
 
-[Урок 12]
+[Урок 12](https://blvrrr.github.io/webdev10/homework/lesson12/project/src/) - работа с репозиторием на GitHub
 
