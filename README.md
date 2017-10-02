@@ -24,3 +24,5 @@
 [Практика 1](https://blvrrr.github.io/webdev10/homework/practice-1/project/src/) - верстка шапки сайта
 
 [Урок 14](https://blvrrr.github.io/webdev10/homework/lesson14/fonts-viewer) - подбор шрифтов
+
+[Практика 2](https://blvrrr.github.io/webdev10/homework/practice-2/project/src/) - верстка первого экрана
