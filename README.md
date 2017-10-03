@@ -26,3 +26,5 @@
 [Урок 14](https://blvrrr.github.io/webdev10/homework/lesson14/fonts-viewer) - подбор шрифтов
 
 [Практика 2](https://blvrrr.github.io/webdev10/homework/practice-2/project/src/) - верстка первого экрана
+
+[Урок 15](https://blvrrr.github.io/webdev10/homework/lesson15/dz-15) - псевдоклассы и псевдоэлементы
