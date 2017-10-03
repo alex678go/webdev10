@@ -28,3 +28,5 @@
 [Практика 2](https://blvrrr.github.io/webdev10/homework/practice-2/project/src/) - верстка первого экрана
 
 [Урок 15](https://blvrrr.github.io/webdev10/homework/lesson15/dz-15) - псевдоклассы и псевдоэлементы
+
+[Практика 3](https://blvrrr.github.io/webdev10/homework/practice-3/project/src/) - Эффекты при наведении и адаптив первого экрана
