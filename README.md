@@ -32,3 +32,5 @@
 [Практика 3](https://blvrrr.github.io/webdev10/homework/practice-3/project/src/) - эффекты при наведении и адаптив первого экрана
 
 [Урок 16](https://blvrrr.github.io/webdev10/homework/lesson16/project/src/) - подключение слайдера
+
+[Практика 4](https://blvrrr.github.io/webdev10/homework/practice-4/project/src/) - верстка блока с преимуществами и слайдер
