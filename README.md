@@ -36,3 +36,5 @@
 [Практика 4](https://blvrrr.github.io/webdev10/homework/practice-4/project/src/) - верстка блока с преимуществами и слайдер
 
 [Урок 17](https://blvrrr.github.io/webdev10/homework/lesson17/project/src/) - модальное окно
+
+[Практика 5](https://blvrrr.github.io/webdev10/homework/practice-5/project/src/) - верстка всплывающих окон
