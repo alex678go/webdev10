@@ -34,3 +34,5 @@
 [Урок 16](https://blvrrr.github.io/webdev10/homework/lesson16/project/src/) - подключение слайдера
 
 [Практика 4](https://blvrrr.github.io/webdev10/homework/practice-4/project/src/) - верстка блока с преимуществами и слайдер
+
+[Урок 17](https://blvrrr.github.io/webdev10/homework/lesson17/project/src/) - модальное окно
