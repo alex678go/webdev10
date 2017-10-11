@@ -40,3 +40,5 @@
 [Практика 5](https://blvrrr.github.io/webdev10/homework/practice-5/project/src/) - верстка всплывающих окон
 
 [Урок 18](https://blvrrr.github.io/webdev10/homework/lesson18/project/src/) - табы и аккордеон
+
+[Практика 6](https://blvrrr.github.io/webdev10/homework/practice-6/project/src/) - верстка блока с ценами
