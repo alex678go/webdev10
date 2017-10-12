@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Анимация на CSS3</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+
+    <div class="container tab-block">
+      
+      <div class="content">
+
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs">
+          <li class="active nav-item">
+            <a class="nav-link" href="#entry" data-toggle="tab">Вход</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#reg" data-toggle="tab">Регистрация</a>
+          </li>
+        </ul>
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+          <div role="tabpanel" class="tab-pane active" id="entry">
+            <form action="#" class="form wow fadeIn" data-wow-delay="0.25s" data-wow-duration="3s">
+              <input type="text" class="form-control wow fadeIn" placeholder="Ваше имя" data-wow-delay="0.5s" data-wow-duration="3s">
+              <input type="password" class="form-control wow fadeIn" placeholder="Пароль" data-wow-delay="0.75s" data-wow-duration="3s">
+              <a class="form-forgotten wow fadeIn" href="#" data-wow-delay="1s" data-wow-duration="3s">Забыли пароль?</a>
+              <div class="checkbox wow fadeIn" data-wow-delay="2s" data-wow-duration="3s">
+                <label class="checkbox-label">
+                  <input type="checkbox">
+                  Напомнить мне
+                </label>
+              </div>
+              <button class="form-btn wow fadeIn" data-wow-delay="2.5s" data-wow-duration="3s">Войти</button>  
+            </form>
+          </div>
+          <div role="tabpanel" class="tab-pane" id="reg">Тут будет регистрация</div>
+        </div>
+
+      </div>
+
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script>
+      var wow = new WOW;
+      wow.init();
+    </script>
+    
+  </body>
+</html> 
