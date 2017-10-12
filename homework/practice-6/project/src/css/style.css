@@ -45,6 +45,10 @@ textarea:focus {
   cursor: pointer;
   background-color: #e19e02;
 }
+.medium-btn {
+  font-size: 1.5rem;
+  padding: 1.5rem 4.5rem;
+}
 /* Typography */
 section {
   padding: 10rem 0;
@@ -241,6 +245,7 @@ section {
   -webkit-box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
           box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
   text-align: center;
+  min-height: 58rem;
 }
 .price-block h4 {
   margin: 3rem 0;
