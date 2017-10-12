@@ -10,8 +10,6 @@ body {
 	padding: 20px 80px;
 	font-family: 'Myriad Pro';
 }
-.nav {
-}
 .active {
 	border: none;
 }
@@ -32,8 +30,8 @@ body {
 	text-shadow: 0px 2px 1px rgba(0, 0, 0, 0.75);
 }
 .nav-tabs>li>a:hover {
-	border: none;
 	background-color: transparent;
+	color: #000;
 }
 .nav-item {
 	margin-right: 9px;
