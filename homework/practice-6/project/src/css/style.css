@@ -245,12 +245,13 @@ section {
   -webkit-box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
           box-shadow: 7px 12px 21px 0px rgba(0, 0, 0, 0.17);
   text-align: center;
-  min-height: 58rem;
+  min-height: 61rem;
 }
 .price-block h4 {
   margin: 3rem 0;
   font-size: 1.9rem;
   font-family: 'ProximaNova_bold', sans-serif;
+  min-height: 4rem;
 }
 .price-block img {
   width: 100%;
@@ -267,7 +268,7 @@ section {
 .price-list {
   padding: 0;
   list-style: none;
-  min-height: 14rem;
+  min-height: 17rem;
   font-size: 1.6rem;
   line-height: 1.6;
 }
