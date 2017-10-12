@@ -43,4 +43,6 @@
 
 [Практика 6](https://blvrrr.github.io/webdev10/homework/practice-6/project/src/) - верстка блока с ценами
 
-[Урок 19](https://blvrrr.github.io/webdev10/homework/lesson19/project/src/) - анимация на CSS3 
+[Урок 19](https://blvrrr.github.io/webdev10/homework/lesson19/project/src/) - анимация на CSS3
+
+[Практика 7](https://blvrrr.github.io/webdev10/homework/practice-7/project/src/) - верстка блока с отзывами
