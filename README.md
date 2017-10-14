@@ -50,3 +50,6 @@
 [Урок 20](https://blvrrr.github.io/webdev10/homework/lesson20/project/src/) - видеофон на сайте
 
 [Практика 8](https://blvrrr.github.io/webdev10/homework/practice-8/project/src/) - верстка блока с отзывами
+
+[Практика 9](https://blvrrr.github.io/webdev10/homework/practice-9/project/src/) - верстка блоков "схема" и "все включено"
+
