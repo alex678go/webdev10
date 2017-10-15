@@ -55,3 +55,4 @@
 
 [Практика 9](https://blvrrr.github.io/webdev10/homework/practice-9/project/src/) - верстка блоков "схема" и "все включено"
 
+[Урок 22](https://blvrrr.github.io/webdev10/homework/lesson22/project/src/) - гео-карта для сайта
