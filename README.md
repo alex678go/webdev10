@@ -51,5 +51,7 @@
 
 [Практика 8](https://blvrrr.github.io/webdev10/homework/practice-8/project/src/) - верстка блока с отзывами
 
+[Урок 21](https://blvrrr.github.io/webdev10/homework/lesson21/project/src/) - parallax на сайте
+
 [Практика 9](https://blvrrr.github.io/webdev10/homework/practice-9/project/src/) - верстка блоков "схема" и "все включено"
 
