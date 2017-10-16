@@ -58,3 +58,5 @@
 [Урок 22](https://blvrrr.github.io/webdev10/homework/lesson22/project/src/) - гео-карта для сайта
 
 [Практика 10](https://blvrrr.github.io/webdev10/homework/practice-10/project/src/) - верстка блока "решение проблем"
+
+[Практика 11](https://blvrrr.github.io/webdev10/homework/practice-11/project/src/) - верстка блока "материалы"
