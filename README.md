@@ -60,3 +60,5 @@
 [Практика 10](https://blvrrr.github.io/webdev10/homework/practice-10/project/src/) - верстка блока "решение проблем"
 
 [Практика 11](https://blvrrr.github.io/webdev10/homework/practice-11/project/src/) - верстка блока "материалы"
+
+[Практика 12](https://blvrrr.github.io/webdev10/homework/practice-12/project/src/) - верстка блоков "экскурсия" и "доп. услуги"
