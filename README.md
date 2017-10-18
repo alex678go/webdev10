@@ -62,3 +62,5 @@
 [Практика 11](https://blvrrr.github.io/webdev10/homework/practice-11/project/src/) - верстка блока "материалы"
 
 [Практика 12](https://blvrrr.github.io/webdev10/homework/practice-12/project/src/) - верстка блоков "экскурсия" и "доп. услуги"
+
+[Практика 13](https://blvrrr.github.io/webdev10/homework/practice-12/project/src/) - верстка блоков "контакты" и "подвал"
